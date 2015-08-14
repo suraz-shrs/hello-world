@@ -1,3 +1,3 @@
 # hello-world
 testing repos...
-Completion of readme within the second week of September
+Completion of readme within the second week of November
